@@ -19,3 +19,4 @@ $ yarn generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 # ImageUploader
+https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx
